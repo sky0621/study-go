@@ -1,0 +1,8 @@
+
+// 多値が返せるGo言語
+// 標準関数のいくつかは処理結果とともに error インタフェース型の値を返す
+
+type error interface {
+	Error() string
+}
+
