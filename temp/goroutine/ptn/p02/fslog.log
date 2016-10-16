@@ -1,0 +1,10 @@
+2016/10/17 03:59:59 another goroutine
+2016/10/17 03:59:59 the main goroutine, received value:*
+2016/10/17 04:02:53 another goroutine
+2016/10/17 04:02:54 the main goroutine, received value:*
+2016/10/17 04:04:14 another goroutine
+2016/10/17 04:04:14 the main goroutine, received value:*
+2016/10/17 04:14:21 [another goroutine]
+2016/10/17 04:14:21 [the main goroutine, received value: 42]
+2016/10/17 04:15:10 [another goroutine]
+2016/10/17 04:15:10 [the main goroutine, received value: 42]
